@@ -33,6 +33,6 @@ El scritp realiza las conecciones a las dos bases de datos donde se itera los da
 
 El scritp realiza las conecciones a las dos bases de datos donde se iteran las coleccioens de mongoDb y se envia cada colección con sus respectivos documentos a la base de mongodb Atlas 
 
-- 9 MongoDb to Atlas 
+- 9 MongoDb Atlas  to CSV 
 
 El escript realiza la conección a mongoDb Atlas recoge los documentos de una colección y luego se procede convertirlos en arrays y para hacer un dataframe y poder convertir este en archivo csv.
